@@ -1,0 +1,63 @@
+body{
+  font-family: 'Lato', sans-serif;
+}
+img{
+  width: 400px;
+}
+.margen{
+  margin-top: 3em;
+}
+.fondo{
+  background-color: black
+}
+.quitar-float{
+  float: none;
+}
+.espacio-arriba{
+  margin-top: 100px;
+}
+.roboto{
+  font-family: 'Roboto', sans-serif;
+}
+.archivo{
+  font-family: 'Archivo Black', sans-serif;
+}
+.grande{
+  font-size: 3em;
+}
+.mediano{
+  font-size: 1em;
+}
+.se-gris{
+  background-color: #eee;
+}
+.padding-largo{
+  padding: 5px 10px;
+}
+.no-lista{
+  margin: 0px;
+  padding: 0px;
+}
+.inline-block{
+  float: none;
+  display: inline-block;
+}
+.no-lista li{
+  list-style-type: none;
+}
+.espacio-derecha{
+  margin-right: 1em;
+}
+.espacio-izquierda{
+  margin-left: 1em;
+}
+a{
+  color: white;
+  text-decoration: none;
+}
+.fondo{
+  background-color: black;
+}
+.blanco{
+  color: white;
+}
